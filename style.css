@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  width: 1440px;
+}
+.header img{
+   
+    margin-top: 26px;
+    margin-left: 42px;
+}
+.spisok {
+    gap: 24px;
+    margin-top: -34px;
+    margin-left: 148px;
+    width: 433px;
+    height: 56px;
+    display: flex;
+    padding: 0;
+    gap: 20px;
+    list-style: none;
+}
+.spisok p{
+    color: #585858;
+
+    font-family: SF UI Display;
+font-weight: 300px;
+font-size: 14px;
+line-height: 40px;
+letter-spacing: 1%;
+text-align: center;
+
+}
+.ikonka{
+    display: flex;
+    justify-content: end;
+   gap: 98px;
+   align-self: start;
+   margin-top: -56px;
+}
+.bigboss{
+margin-top: 64px;
+margin-left: 165px;
+}
+.text{
+    margin-top: 50px;
+    font-family: SF UI Display;
+font-weight: 300px;
+font-size: 16px;
+line-height: 160%;
+letter-spacing: 1%;
+width: 290px;
+height: 130px;
+top: 422px;
+left: 165px;
+opacity: 1;
+color: black;
+}
+.button{
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    width: 190px;
+    justify-content: center;
+    background:  #FD665E;
+    width: 190px;
+    height:56px;
+    margin-top: 50px;
+    color: #fff;
+}
+.ikkinchirasm{
+    display: flex;
+    justify-content: end;
+    margin-right: 104px;
+    margin-top: -243px;
+}
+.text1{
+    display: flex;
+    justify-self: center;
+    padding-top: 24px;
+    margin-left:60px;
+    width: 623px;
+height: 120px;
+opacity: 1;
+font-family: New York Extra Large;
+font-weight: 600px;
+font-size: 48px;
+line-height: 124%;
+letter-spacing: -4%;
+}
+.ikonkalar {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 35px;
+}
+.rasmlar{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.afzalliklar {
+    max-width: 1140px;
+    margin: 60px auto 0 auto;
+    padding: 0 15px;
+}
+.sarlavha-boshi p {
+    font-family: 'SF UI Display', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 120%;
+    margin: 0 0 35px 0;
+    color: black;
+}
+.bigboss3 {
+    display: flex;
+    align-items: flex-start;
+    gap: 80px;
+}
+.img3 {
+    flex: 1;
+}
+.img3 img {
+    width: 100%;
+    max-width: 530px;
+    display: block;
+}
+.ong-tomon {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 5px;
+}
+.dunyo {
+    margin-top: 48px;
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+}
+.dunyo .ikonka {
+    width: 28px;
+    height: auto;
+    margin-top: 3px;
+}
+.matnlar {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    width: 305px;
+}
+.text31 {
+    margin: 0;
+    font-family: 'SF UI Display', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    color: black;
+}
+.text32 {
+    margin: 0;
+    font-family: 'SF UI Display', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 160%;
+    color: black;
+}
+.qizil-tugma {
+    margin-left: 79px;
+    margin-top: 36px;
+    display: inline-block;
+    width: 180px;
+    background-color: #FF6551;
+    color: white;
+    text-align: center;
+    padding: 12px 0;
+    font-family: 'SF UI Display', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 15px;
+    box-sizing: border-box;
+}
+.bigboss4{
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+    width:1501px;
+height: 588px;
+    background:#F9F9F9;
+;
+}
+.text4{
+       margin-top: 64px;
+   margin-right: -165px;
+    width: 573px;
+height: 120px;
+opacity: 1;
+font-family: New York Extra Large;
+font-weight: 600;
+font-size: 48px;
+line-height: 124%;
+letter-spacing: -4%;
+color: black;
+}
+.text41{
+   
+ margin-top: 224px;
+   width: 765px;
+height: 255px;
+opacity: 1;
+font-family: SF UI Display;
+font-weight: 300;
+font-size: 32px;
+line-height: 160%;
+letter-spacing: 1%;
+}
+.text41 img{
+    display: flex;
+    
+    margin-top: 28px;
+}
+.tugmlarm{
+    white-space: nowrap;
+}
+.hamkorlar{
+    margin-top: 56px;
+    margin-left: 165px;
+    width: 433px;
+    height: 56px;
+    display: flex;
+    padding: 0;
+    gap: 85px;
+    list-style: none;
+}
